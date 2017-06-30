@@ -31,3 +31,8 @@ hr{
 .version{
   font-size: 11px;
 }
+
+.notes{
+border: 2px solid #fff;
+padding: 10px 10px 10px 10px;
+}
