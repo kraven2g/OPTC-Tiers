@@ -13,12 +13,9 @@ a:visited {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: none;
-}
-
 a:active {
     text-decoration: none;
+    color: #cccccc;
 }
 
 footer{
@@ -63,7 +60,3 @@ a:hover{
   color: #cccccc;
 }
 
-a:visited{
-  text-decoration: none;
-  color: #fff;
-}
