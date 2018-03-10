@@ -1,0 +1,37 @@
+.conc{
+  font-size: 16px;
+  text-align: justify;
+  margin-top: 15px;
+}
+
+.conc2{
+    font-size: 16px;
+  text-align: justify;
+}
+
+span{
+  font-weight: 600;
+  padding: 0px;
+  margin: 0px;
+}
+
+@media only screen and (max-width: 991px){
+.conc{
+  text-align: center;
+}
+
+.conc2{
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+ul{
+  margin: 0px;
+  padding: 0px;
+}
+
+}
